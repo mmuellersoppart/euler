@@ -1,0 +1,4 @@
+name = "euler"
+uuid = "c8e8f825-9ab9-40f7-9f0c-b0a3bded65f7"
+authors = ["mmuellersoppart <mmuellersoppart@gmail.com>"]
+version = "0.1.0"
